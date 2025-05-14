@@ -45,4 +45,4 @@ This is just the beginning! I'd love to:
 - Add agency-to-agency comparisons
 - Predict mission success using machine learning (why not?)
 
-**Made with stardust and spreadsheets ✨ by Khyati Singh**
+**I have shared the dashboard and a screenshot of it as a preview, Made with stardust and spreadsheets ✨ by Khyati Singh**
